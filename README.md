@@ -1,23 +1,40 @@
-# AI & Machine Learning Portfolio
+# AI Engineering Portfolio
 
-A collection of machine learning projects demonstrating practical applications of AI techniques, data analysis, and high-performance computing.
+Production-ready machine learning systems and high-performance computing implementations.
 
-## About
+## Overview
 
-This repository showcases my work across machine learning, API development, data analysis, and GPU programming. Each project includes implementation details and documentation.
+This repository contains end-to-end ML projects emphasizing **system design**, **performance optimization**, and **production deployment**. Each project demonstrates practical engineering skills beyond model training—including API development, efficient data processing, and scalable inference systems.
 
-## Tech Stack
+## Technical Stack
 
-- **Languages:** Python, Java, C++
-- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn
-- **Data Analysis:** Pandas, NumPy, Jupyter Notebooks
-- **GPU Computing:** ROCm, HIP
-- **API Development:** FastAPI, Spring Boot
+**Machine Learning & Data Science**
+- TensorFlow, PyTorch, Scikit-learn
+- Pandas, NumPy for data processing
 
-## Projects
+**Backend & APIs**
+- Python: FastAPI
+- Java: Spring Boot
 
-Projects are organized in individual directories covering:
-- Machine learning model development
-- RESTful API implementations
-- Data analysis and visualization
-- GPU-accelerated computing
+**Performance Computing**
+- C++ for performance-critical components
+- ROCm/HIP for GPU acceleration
+
+## Project Structure
+
+Each project directory includes:
+- Implementation with clean, documented code
+- Architecture overview and design decisions
+- Setup instructions and dependencies
+- Performance benchmarks where applicable
+
+## Focus Areas
+
+- **ML Systems:** Building deployable models with inference APIs
+- **Performance Engineering:** GPU acceleration and optimization
+- **Data Pipelines:** Scalable data processing and analysis
+- **Production APIs:** RESTful services for ML model serving
+
+---
+
+*Built to demonstrate software engineering skills for production ML systems.*
